@@ -156,7 +156,6 @@ nav a:hover {
   font-size: 2rem;
   margin-bottom: 20px;
 }
-
 .projects-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
