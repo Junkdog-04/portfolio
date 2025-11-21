@@ -22,7 +22,7 @@ async function loadGitHubInfo() {
       const card = projectCards[i];
 
       const response = await fetch(
-        `https://api.github.com/repos/${GITHUB_USER}/${repo}`
+        `https://api.github.com/repositories/${GITHUB_USER}/${repo}`
       );
 
       if (!response.ok) continue;
