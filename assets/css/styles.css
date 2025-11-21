@@ -72,7 +72,7 @@ nav a:hover {
   justify-content: center;
   text-align: center;
   padding: 100px 20px;
-  background-color: #b9c3c9;
+  background: linear-gradient(180deg, #cbd4d9, #d8e0e4);
 }
 #hero h1 {
   font-size: 2.5rem;
