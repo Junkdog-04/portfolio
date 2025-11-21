@@ -195,7 +195,8 @@ nav a:hover {
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   width: 100%;
-  max-width: 350px;
+  max-width: 1200px;
+  height: 400px ;
   transition: transform 0.3s, box-shadow 0.3s;
 }
 
