@@ -219,17 +219,19 @@ nav a:hover {
 }
 
 .project-card p {
-  font-size: 1rem;
-  margin-bottom: 15px;
+  font-size: 1.1rem;
+  line-height: 1.65;
+  color: #333;
 }
 
 .project-card a {
+  margin-top: 10px;
   display: inline-block;
-  background-color: #3B3B3B;
-  color: #CBD4D9;
-  padding: 10px 20px;
-  border-radius: 5px;
-  transition: background-color 0.3s;
+  font-weight: 600;
+  padding: 10px 18px;
+  border-radius: 8px;
+  background: #1c1c1c;
+  color: #fff;
 }
 
 .project-card a:hover {
