@@ -248,6 +248,16 @@ nav a:hover {
   background-color: #666;
 }
 
+.repo-extra-info {
+  margin-top: 12px;
+  font-size: 0.95rem;
+  color: #444;
+}
+
+.repo-extra-info p {
+  margin: 4px 0;
+}
+
 #contacto {
   display: flex;
   flex-direction: row;
