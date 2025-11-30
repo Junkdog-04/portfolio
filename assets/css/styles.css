@@ -112,6 +112,8 @@ nav a:hover {
 }
 
 .experience-card {
+  display: flex ;
+  flex-direction: row;
   background: rgba(255, 255, 255, 0.85);
   padding: 32px;
   border-radius: 18px;
@@ -142,7 +144,8 @@ nav a:hover {
 }
 
 .scroll-down {
-  font-size: 2rem;
+  font-size: 3rem;
+  background: #CBD4D9;
   color: #3B3B3B;
   text-decoration: none;
   margin-top: 20px;
