@@ -21,6 +21,7 @@ async function loadGitHubInfo() {
       const repo = repoNames[i];
       const card = projectCards[i];
 
+
       const response = await fetch(
         `https://api.github.com/repos/${GITHUB_USER}/${repo}`
       );
