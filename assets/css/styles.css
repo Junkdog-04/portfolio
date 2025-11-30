@@ -172,6 +172,8 @@ nav a:hover {
 #proyectos {
   padding: 40px 20px;
   text-align: center;
+  max-width: 1100px;
+  margin: 40px 0 60px 0;
 }
 
 #proyectos h2 {
