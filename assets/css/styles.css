@@ -137,9 +137,11 @@ nav a:hover {
 }
 
 .experience-card p {
+  max-width: 55ch;
+  margin: 0 auto;
+  text-align: center;
   line-height: 1.6;
   color: #333;
-  text-align: center;
 }
 
 .scroll-down {
